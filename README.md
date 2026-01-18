@@ -1,5 +1,5 @@
 # This repo is no longer active supported, a new project is started and source code opened at
-# https://github.com/autoas/ssas-public
+# https://github.com/autoas/as
 
 # as
 automotive software and its tool-chain
